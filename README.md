@@ -9,9 +9,9 @@
  6. [Questions](#Questions)
  7. [License](#License)
 ## Description
-This application was designed to write and save notes that you can retrieve later! The user simply writes their note and a title into the text boxes and presses the save icon to store the note.
+This application was designed to write and save notes that you can retrieve later! The user simply writes their note and a title into the text boxes and presses the save icon to store the note. In order to delete the old notes press the trash can icon on the note you want to delete.
 
-Check out the deployed app: (https://arcane-peak-11126.herokuapp.com/notes)
+Check out the deployed app: (https://arcane-peak-11126.herokuapp.com/)
 
 ## Instalation
 In order to acess and refractor the code you must first go through the Installation Process.
